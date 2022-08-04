@@ -1,6 +1,9 @@
 div {
     color: white;
-    background-color: black;
+    background-color: red;
+    font-size: 40px;
+    font-family: "Verdana",sans-serif;
+    font-weight: bolder;
 }
 
 p {
